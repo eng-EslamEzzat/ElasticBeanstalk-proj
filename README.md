@@ -59,3 +59,11 @@ This sample application uses the [django](https://www.djangoproject.com/) framew
 6. When the environment update process completes, open your website.
 
     `eb open`
+    
+- If you want to opens the environment in the AWS Elastic Beanstalk Management Console.
+
+    `eb console`
+
+- If there are any issues you can show the logs by. 
+
+    `eb logs`
